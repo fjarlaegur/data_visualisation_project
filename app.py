@@ -5,7 +5,7 @@ import pydeck as pdk
 import plotly.express as px
 
 DATA_URL = (
-    "https://drive.google.com/uc?export=download&id=12e_qw2v2RkDEN-XYVUKdgHbnjPLTwPfu"
+    "https://media.githubusercontent.com/media/fjarlaegur/data_visualisation_project/main/Motor_Vehicle_Collisions_-_Crashes.csv?token=A6J3IEQMADD5NSSKQHCP4N3GELW3A"
 )
 
 

@@ -5,7 +5,7 @@ import pydeck as pdk
 import plotly.express as px
 
 DATA_URL = (
-    "C:/SnakeProjects/coursera map st/Motor_Vehicle_Collisions_-_Crashes.csv"
+    "https://docs.google.com/spreadsheets/d/12e_qw2v2RkDEN-XYVUKdgHbnjPLTwPfu/gviz/tq?tqx=out:csv"
 )
 
 

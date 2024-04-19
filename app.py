@@ -5,7 +5,7 @@ import pydeck as pdk
 import plotly.express as px
 
 DATA_URL = (
-    "https://docs.google.com/spreadsheets/d/12e_qw2v2RkDEN-XYVUKdgHbnjPLTwPfu/gviz/tq?tqx=out:csv"
+    "https://drive.google.com/uc?export=download&id=12e_qw2v2RkDEN-XYVUKdgHbnjPLTwPfu"
 )
 
 
